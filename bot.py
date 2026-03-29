@@ -3,6 +3,8 @@ import time
 
 # --- AAPKI DETAILS ---
 TOKEN = "8768449118:AAHhewdXlRfEZP-scSiS5ubasNiYrYCpQKI"
+CHAT_ID = "7508343218"
+
 
 
 def send_telegram(message):
